@@ -1,4 +1,4 @@
-async function friend(code) {
+window.friend = async function friend(code) {
     const lines = code.split("\n");
     let i = 0;
 
