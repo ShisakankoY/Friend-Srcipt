@@ -40,7 +40,7 @@ Finish
 
 ## 使い方
 
-`<script src="https://shisakankoy.github.io/Friend-Script/">`
+`<script src="https://shisakankoy.github.io/Friend-Script/friend.js">`
 をhtmlファイルに記述してください。
 
 
@@ -72,4 +72,4 @@ Loop time
 Finish
 
 ## How to Use
-Add `<script src="https://shisakankoy.github.io/Friend-Script/">` to your HTML file.
+Add `<script src="https://shisakankoy.github.io/Friend-Script/friend.js">` to your HTML file.
